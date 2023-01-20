@@ -1,0 +1,32 @@
+{
+  "name": "letschat_mongodb_example",
+  "version": "1.0.0",
+  "description": "THis is chat application that will use for the chating system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jks0586/letschat_mongodb.git"
+  },
+  "keywords": [
+    "express",
+    "chat",
+    "letscms"
+  ],
+  "author": "Jitendra SHarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jks0586/letschat_mongodb/issues"
+  },
+  "homepage": "https://github.com/jks0586/letschat_mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
